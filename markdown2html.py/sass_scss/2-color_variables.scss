@@ -1,0 +1,11 @@
+/* Task: Assign colors to HTML tags */
+$main-color: #3D3D3D;
+$bg-color: #6D6D6D;
+
+body, p {
+	  color: $main-color;
+  }
+
+  body, h2 {
+	    background-color: $bg-color;
+    }

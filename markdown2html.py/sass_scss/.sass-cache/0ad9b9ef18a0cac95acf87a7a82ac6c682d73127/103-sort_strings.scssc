@@ -1,0 +1,4 @@
+3.7.4
+6b50a1ea1297bef4cee72d2417100248d17388f8
+o:Sass::Tree::RootNode:@children[o:Sass::Tree::CommentNode:@value[I"L/* sort variable $list_to_sort and print sorted list in debug output */:ET:
+@type:normal;[
